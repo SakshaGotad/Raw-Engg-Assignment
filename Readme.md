@@ -27,7 +27,8 @@ This project provides a **full-stack real-time transcription system** powered by
    cd Frontend
 ```   
 2.Install frontend and Electron dependencies:
-```npm install
+```bash
+npm install
 ```
 3.Open two terminals or split your terminal:
 
